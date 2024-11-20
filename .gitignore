@@ -30,3 +30,16 @@
 *.exe
 *.out
 *.app
+
+# Ignore metadata folders
+.metadata/
+
+# Ignore Debug folders
+Debug/
+
+# Ignore project files
+.project
+.cproject
+
+# Ignore settings folder
+.settings/
